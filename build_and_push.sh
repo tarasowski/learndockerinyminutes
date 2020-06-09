@@ -4,7 +4,7 @@
 
 AWS_PROFILE=default
 REGION=us-east-1
-REPO_NAME=web-store-tracker
+REPO_NAME=node-test
 TAG=latest
 
 # Get the account number associated with the current IAM credentials
